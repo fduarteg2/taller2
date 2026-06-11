@@ -213,7 +213,7 @@ app.layout = html.Div(
                 html.Div(
                     id="model_graph",
                     children=[
-                        html.B("Demanda Energética - Taller 2 [MW]"),
+                        html.B("Demanda Energética - Version Final Main [MW]"),
                         html.Hr(),
                         dcc.Graph(
                             id="plot_series",  
